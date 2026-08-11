@@ -1,0 +1,4 @@
+/venv/
+/.claude/
+*.pycache
+/__pycache__/
