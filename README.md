@@ -38,5 +38,11 @@ python main.py -m beatmap.osu [options]
 | `--music-vol` | Music volume (0–100) | `100` |
 | `--hit-vol` | Hitsound volume (0–100) | `80` |
 
-### License
+
+## Screenshots
+<img width="416" height="794" alt="ss1" src="https://github.com/user-attachments/assets/6e9769e8-cccd-4d1a-9051-3349e429e3fb" />
+<img width="1036" height="763" alt="ss2" src="https://github.com/user-attachments/assets/0c47807f-e8b9-4352-8058-4ec1c07c670b" />
+
+
+## License
 MIT
