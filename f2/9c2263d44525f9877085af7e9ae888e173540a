@@ -1,0 +1,43 @@
+.gitignore
+  h_acd8c3a33a52ed 1-4
+main.py
+  h_acd8c3a33a52ed 24
+  h_acd8c3a33a52ed 1-23,25-28
+license.txt
+  h_acd8c3a33a52ed 1-7
+README.md
+  h_acd8c3a33a52ed 3,5,7-10,12,15,17,28,31-39,41-42
+  s_3c28b3610fee4f::t_0eabad760e548f 1-2,4,6,11,13-14,16,18-27,29-30,40
+player.py
+  h_acd8c3a33a52ed 34,43
+  h_acd8c3a33a52ed 1-33,35-42,44-118
+constants.py
+  h_acd8c3a33a52ed 1-10
+gui.py
+  h_acd8c3a33a52ed 1-363
+osu_parser.py
+  h_acd8c3a33a52ed 1-71
+renderer.py
+  h_acd8c3a33a52ed 1-43
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "f29c2263d44525f9877085af7e9ae888e173540a",
+  "prompts": {},
+  "humans": {
+    "h_acd8c3a33a52ed": {
+      "author": "SleepingCui <130898297+SleepingCui@users.noreply.github.com>"
+    }
+  },
+  "sessions": {
+    "s_3c28b3610fee4f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c031d690-9641-4198-a78b-1fb070259dfc",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "SleepingCui <130898297+SleepingCui@users.noreply.github.com>"
+    }
+  }
+}
